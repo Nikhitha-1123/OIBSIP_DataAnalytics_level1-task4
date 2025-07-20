@@ -1,4 +1,4 @@
-# PROJECT4 : 🧠 Sentiment Analysis using NLP and Machine Learning
+# PROJECT : 🧠 Sentiment Analysis using NLP and Machine Learning
 
 > ✅ Level 1- Task 4
 
