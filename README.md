@@ -1,6 +1,6 @@
 # PROJECT : 🧠 Sentiment Analysis using NLP and Machine Learning
 
-> ✅ Level 1- Task 4
+
 
 This project focuses on analyzing the emotional tone of text data—positive, negative, or neutral—using Natural Language Processing (NLP) and machine learning models.
 
